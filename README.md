@@ -2,9 +2,9 @@
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Build Status](https://travis-ci.org/hfreire/make-porto-win-european-best-destination-2017.svg?branch=master)](https://travis-ci.org/hfreire/make-porto-win-european-best-destination-2017)
-[![Coverage Status](https://coveralls.io/repos/github/hfreire/make-porto-win-european-best-destination-2017/badge.svg?branch=master)](https://coveralls.io/github/hfreire/make-porto-win-european-best-destination-2017?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/rsdev000/make-porto-win-european-best-destination-2017/badge.svg?branch=master)](https://coveralls.io/github/rsdev000/make-porto-win-european-best-destination-2017?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/hfreire/make-porto-win-european-best-destination-2017.svg)](https://greenkeeper.io/)
-[![](https://img.shields.io/github/release/hfreire/make-porto-win-european-best-destination-2017.svg)](https://github.com/hfreire/make-porto-win-european-best-destination-2017/releases)
+[![](https://img.shields.io/github/release/rsdev000/make-porto-win-european-best-destination-2017.svg)](https://github.com/hfreire/make-porto-win-european-best-destination-2017/releases)
 [![](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Uses [Pollmommy](https://github.com/hfreire/pollmommy) and [Tor](https://github.com/hfreire/rotating-proxy) to hack the election of Porto as the [European Best Destination 2017](http://www.europeanbestdestinations.com/best-of-europe/european-best-destinations-2017/) from [European Best Destinations](https://http://www.europeanbestdestinations.com).
@@ -58,9 +58,9 @@ npm run build
 ### In the news and social media
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hfreire/make-porto-win-european-best-destination-2017/master/share/github/expresso-20170211.jpeg" width="274">
+    <img src="https://raw.githubusercontent.com/rsdev000/make-porto-win-european-best-destination-2017/master/share/github/expresso-20170211.jpeg" width="274">
 </p>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hfreire/make-porto-win-european-best-destination-2017/master/share/github/european-best-destination-2017-closed_tweet.png" width="374">
-    <img src="https://raw.githubusercontent.com/hfreire/make-porto-win-european-best-destination-2017/master/share/github/european-best-destination-2017-winner_tweet.png" width="374">
+    <img src="https://raw.githubusercontent.com/rsdev000/make-porto-win-european-best-destination-2017/master/share/github/european-best-destination-2017-closed_tweet.png" width="374">
+    <img src="https://raw.githubusercontent.com/rsdev000/make-porto-win-european-best-destination-2017/master/share/github/european-best-destination-2017-winner_tweet.png" width="374">
 </p>
